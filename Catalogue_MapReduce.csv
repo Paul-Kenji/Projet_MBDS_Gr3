@@ -1,0 +1,271 @@
+marque;nom;puissance;longueur;nbPlaces;nbPortes;couleur;occasion;prix;BonusMalus;Rejets;CoutEnergie
+saab; 9.3 1.8T;150; longue;5;5; blanc; true;27020; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; rouge; true;27020; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; gris; true;27020; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; bleu; true;27020; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; noir; true;27020; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; gris; false;38600; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; bleu; false;38600; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; noir; false;38600; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; rouge; false;38600; 6137.231454005935; 139.27231121281466; 561.4645308924485
+saab; 9.3 1.8T;150; longue;5;5; blanc; false;38600; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; rouge; false;13500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; bleu; true;9450; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; gris; false;13500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; bleu; false;13500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; noir; false;13500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; rouge; true;9450; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; gris; true;9450; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; blanc; false;13500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; blanc; true;9450; 6137.231454005935; 139.27231121281466; 561.4645308924485
+lancia; Ypsilon 1.4 16V;90; courte;5;3; noir; true;9450; 6137.231454005935; 139.27231121281466; 561.4645308924485
+kia; Picanto 1.1;65; courte;5;5; blanc; false;8990; -6000.0; 10.333333333333334; 157.66666666666666
+kia; Picanto 1.1;65; courte;5;5; gris; false;8990; -6000.0; 10.333333333333334; 157.66666666666666
+kia; Picanto 1.1;65; courte;5;5; noir; false;8990; -6000.0; 10.333333333333334; 157.66666666666666
+kia; Picanto 1.1;65; courte;5;5; rouge; false;8990; -6000.0; 10.333333333333334; 157.66666666666666
+kia; Picanto 1.1;65; courte;5;5; bleu; false;8990; -6000.0; 10.333333333333334; 157.66666666666666
+seat; Toledo 1.6;102; longue;5;5; blanc; false;18880; 6137.231454005935; 139.27231121281466; 561.4645308924485
+seat; Toledo 1.6;102; longue;5;5; noir; false;18880; 6137.231454005935; 139.27231121281466; 561.4645308924485
+seat; Toledo 1.6;102; longue;5;5; rouge; false;18880; 6137.231454005935; 139.27231121281466; 561.4645308924485
+seat; Toledo 1.6;102; longue;5;5; gris; false;18880; 6137.231454005935; 139.27231121281466; 561.4645308924485
+seat; Toledo 1.6;102; longue;5;5; bleu; false;18880; 6137.231454005935; 139.27231121281466; 561.4645308924485
+mini; Copper 1.6 16V;115; courte;5;5; gris; true;12740; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; bleu; true;12740; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; rouge; true;12740; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; noir; true;12740; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; blanc; true;12740; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; gris; false;18200; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; bleu; false;18200; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; rouge; false;18200; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; noir; false;18200; -6000.0; 21.5; 126.0
+mini; Copper 1.6 16V;115; courte;5;5; blanc; false;18200; -6000.0; 21.5; 126.0
+honda; FR-V 1.7;125; longue;7;5; noir; false;19550; 6137.231454005935; 139.27231121281466; 561.4645308924485
+honda; FR-V 1.7;125; longue;7;5; bleu; false;19550; 6137.231454005935; 139.27231121281466; 561.4645308924485
+honda; FR-V 1.7;125; longue;7;5; gris; false;19550; 6137.231454005935; 139.27231121281466; 561.4645308924485
+honda; FR-V 1.7;125; longue;7;5; blanc; false;19550; 6137.231454005935; 139.27231121281466; 561.4645308924485
+honda; FR-V 1.7;125; longue;7;5; rouge; false;19550; 6137.231454005935; 139.27231121281466; 561.4645308924485
+bmw; M5;507; tr?s longue;5;5; bleu; true;66360; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; gris; false;94800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; blanc; false;94800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; noir; false;94800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; rouge; true;66360; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; blanc; true;66360; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; bleu; false;94800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; gris; true;66360; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; rouge; false;94800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; M5;507; tr?s longue;5;5; noir; true;66360; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; rouge; true;25060; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; bleu; false;35800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; blanc; false;35800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; gris; false;35800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; rouge; false;35800; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; bleu; true;25060; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; gris; true;25060; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; noir; true;25060; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; blanc; true;25060; -6000.0; 39.26315789473684; 80.52631578947368
+bmw; 120i;150; moyenne;5;5; noir; false;35800; -6000.0; 39.26315789473684; 80.52631578947368
+volvo; S80 T6;272; tr?s longue;5;5; blanc; false;50500; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; noir; false;50500; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; rouge; false;50500; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; gris; true;35350; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; bleu; true;35350; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; gris; false;50500; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; bleu; false;50500; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; rouge; true;35350; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; blanc; true;35350; 6137.231454005935; 42.45454545454545; 72.72727272727273
+volvo; S80 T6;272; tr?s longue;5;5; noir; true;35350; 6137.231454005935; 42.45454545454545; 72.72727272727273
+skoda; Superb 2.8 V6;193; tr?s longue;5;5; rouge; false;31790; -6000.0; 27.555555555555557; 98.88888888888889
+skoda; Superb 2.8 V6;193; tr?s longue;5;5; gris; false;31790; -6000.0; 27.555555555555557; 98.88888888888889
+skoda; Superb 2.8 V6;193; tr?s longue;5;5; bleu; false;31790; -6000.0; 27.555555555555557; 98.88888888888889
+skoda; Superb 2.8 V6;193; tr?s longue;5;5; noir; false;31790; -6000.0; 27.555555555555557; 98.88888888888889
+skoda; Superb 2.8 V6;193; tr?s longue;5;5; blanc; false;31790; -6000.0; 27.555555555555557; 98.88888888888889
+peugeot; 1007 1.4;75; courte;5;5; rouge; true;9625; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; noir; false;13750; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; gris; false;13750; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; blanc; true;9625; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; rouge; false;13750; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; gris; true;9625; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; blanc; false;13750; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; bleu; true;9625; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; noir; true;9625; -6000.0; 15.833333333333334; 144.16666666666666
+peugeot; 1007 1.4;75; courte;5;5; bleu; false;13750; -6000.0; 15.833333333333334; 144.16666666666666
+nissan; Primera 1.6;109; longue;5;5; noir; false;18650; 5802.4; 160.0; 681.2
+nissan; Primera 1.6;109; longue;5;5; bleu; false;18650; 5802.4; 160.0; 681.2
+nissan; Primera 1.6;109; longue;5;5; rouge; false;18650; 5802.4; 160.0; 681.2
+nissan; Primera 1.6;109; longue;5;5; gris; false;18650; 5802.4; 160.0; 681.2
+nissan; Primera 1.6;109; longue;5;5; blanc; false;18650; 5802.4; 160.0; 681.2
+nissan; Maxima 3.0 V6;200; tr?s longue;5;5; noir; false;30000; 5802.4; 160.0; 681.2
+nissan; Maxima 3.0 V6;200; tr?s longue;5;5; gris; false;30000; 5802.4; 160.0; 681.2
+nissan; Maxima 3.0 V6;200; tr?s longue;5;5; bleu; false;30000; 5802.4; 160.0; 681.2
+nissan; Maxima 3.0 V6;200; tr?s longue;5;5; rouge; false;30000; 5802.4; 160.0; 681.2
+nissan; Maxima 3.0 V6;200; tr?s longue;5;5; blanc; false;30000; 5802.4; 160.0; 681.2
+nissan; Almera 1.8;115; moyenne;5;5; gris; false;16450; 5802.4; 160.0; 681.2
+nissan; Almera 1.8;115; moyenne;5;5; bleu; false;16450; 5802.4; 160.0; 681.2
+nissan; Almera 1.8;115; moyenne;5;5; noir; false;16450; 5802.4; 160.0; 681.2
+nissan; Almera 1.8;115; moyenne;5;5; rouge; false;16450; 5802.4; 160.0; 681.2
+nissan; Almera 1.8;115; moyenne;5;5; blanc; false;16450; 5802.4; 160.0; 681.2
+mercedes; S500;306; tr?s longue;5;5; noir; true;70910; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; bleu; true;70910; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; rouge; true;70910; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; blanc; true;70910; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; bleu; false;101300; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; gris; true;70910; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; noir; false;101300; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; blanc; false;101300; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; rouge; false;101300; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; S500;306; tr?s longue;5;5; gris; false;101300; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; blanc; false;25900; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; noir; false;25900; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; blanc; true;18130; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; rouge; true;18130; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; noir; true;18130; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; rouge; false;25900; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; bleu; true;18130; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; gris; true;18130; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; gris; false;25900; 8237.358422939069; 187.6271186440678; 749.9796610169492
+mercedes; A200;136; moyenne;5;5; bleu; false;25900; 8237.358422939069; 187.6271186440678; 749.9796610169492
+jaguar; X-Type 2.5 V6;197; longue;5;5; gris; false;37100; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; blanc; true;25970; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; rouge; true;25970; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; rouge; false;37100; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; bleu; true;25970; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; gris; true;25970; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; noir; true;25970; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; noir; false;37100; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; blanc; false;37100; -6000.0; 0.0; 271.0
+jaguar; X-Type 2.5 V6;197; longue;5;5; bleu; false;37100; -6000.0; 0.0; 271.0
+fiat; Croma 2.2;147; longue;5;5; blanc; true;17346; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; bleu; true;17346; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; rouge; true;17346; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; gris; true;17346; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; rouge; false;24780; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; bleu; false;24780; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; noir; true;17346; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; blanc; false;24780; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; noir; false;24780; 6137.231454005935; 139.27231121281466; 561.4645308924485
+fiat; Croma 2.2;147; longue;5;5; gris; false;24780; 6137.231454005935; 139.27231121281466; 561.4645308924485
+daihatsu; Cuore 1.0;58; courte;5;3; noir; false;8850; 6137.231454005935; 139.27231121281466; 561.4645308924485
+daihatsu; Cuore 1.0;58; courte;5;3; blanc; false;8850; 6137.231454005935; 139.27231121281466; 561.4645308924485
+daihatsu; Cuore 1.0;58; courte;5;3; rouge; false;8850; 6137.231454005935; 139.27231121281466; 561.4645308924485
+daihatsu; Cuore 1.0;58; courte;5;3; bleu; false;8850; 6137.231454005935; 139.27231121281466; 561.4645308924485
+daihatsu; Cuore 1.0;58; courte;5;3; gris; false;8850; 6137.231454005935; 139.27231121281466; 561.4645308924485
+dacia; Logan 1.6 MPI;90; moyenne;5;5; blanc; false;7500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+dacia; Logan 1.6 MPI;90; moyenne;5;5; rouge; false;7500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+dacia; Logan 1.6 MPI;90; moyenne;5;5; noir; false;7500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+dacia; Logan 1.6 MPI;90; moyenne;5;5; gris; false;7500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+dacia; Logan 1.6 MPI;90; moyenne;5;5; bleu; false;7500; 6137.231454005935; 139.27231121281466; 561.4645308924485
+volkswagen; Touran 2.0 FSI;150; longue;7;5; rouge; false;27340; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; gris; true;19138; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; bleu; true;19138; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; gris; false;27340; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; bleu; false;27340; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; blanc; true;19138; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; noir; true;19138; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; rouge; true;19138; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; blanc; false;27340; -6000.0; 23.428571428571427; 96.0
+volkswagen; Touran 2.0 FSI;150; longue;7;5; noir; false;27340; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; blanc; true;8540; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; blanc; false;12200; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; noir; false;12200; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; noir; true;8540; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; bleu; true;8540; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; bleu; false;12200; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; rouge; true;8540; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; rouge; false;12200; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; gris; false;12200; -6000.0; 23.428571428571427; 96.0
+volkswagen; Polo 1.2 6V;55; courte;5;3; gris; true;8540; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; blanc; true;18641; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; noir; true;18641; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; rouge; true;18641; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; gris; true;18641; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; bleu; true;18641; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; rouge; false;26630; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; gris; false;26630; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; bleu; false;26630; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; blanc; false;26630; -6000.0; 23.428571428571427; 96.0
+volkswagen; New Beatle 1.8;110; moyenne;5;5; noir; false;26630; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; rouge; true;16029; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; gris; true;16029; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; bleu; true;16029; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; blanc; true;16029; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; noir; true;16029; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; blanc; false;22900; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; noir; false;22900; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; bleu; false;22900; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; rouge; false;22900; -6000.0; 23.428571428571427; 96.0
+volkswagen; Golf 2.0 FSI;150; moyenne;5;5; gris; false;22900; -6000.0; 23.428571428571427; 96.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; gris; true;34440; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; noir; true;34440; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; bleu; true;34440; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; rouge; true;34440; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; blanc; true;34440; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; gris; false;49200; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; bleu; false;49200; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; blanc; false;49200; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; noir; false;49200; -6000.0; 0.0; 206.0
+renault; Vel Satis 3.5 V6;245; tr?s longue;5;5; rouge; false;49200; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; gris; true;15644; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; bleu; true;15644; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; rouge; true;15644; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; blanc; true;15644; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; noir; true;15644; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; gris; false;22350; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; bleu; false;22350; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; blanc; false;22350; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; noir; false;22350; -6000.0; 0.0; 206.0
+renault; Megane 2.0 16V;135; moyenne;5;5; rouge; false;22350; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; rouge; true;19110; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; gris; true;19110; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; bleu; true;19110; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; blanc; true;19110; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; noir; true;19110; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; gris; false;27300; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; bleu; false;27300; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; rouge; false;27300; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; noir; false;27300; -6000.0; 0.0; 206.0
+renault; Laguna 2.0T;170; longue;5;5; blanc; false;27300; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; gris; true;21245; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; bleu; true;21245; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; noir; true;21245; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; rouge; true;21245; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; blanc; true;21245; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; noir; false;30350; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; bleu; false;30350; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; rouge; false;30350; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; blanc; false;30350; -6000.0; 0.0; 206.0
+renault; Espace 2.0T;165; longue;7;5; gris; false;30350; -6000.0; 0.0; 206.0
+hyunda?; Matrix 1.6;103; longue;7;5; bleu; false;15960; 6137.231454005935; 139.27231121281466; 561.4645308924485
+hyunda?; Matrix 1.6;103; longue;7;5; blanc; false;15960; 6137.231454005935; 139.27231121281466; 561.4645308924485
+hyunda?; Matrix 1.6;103; longue;7;5; gris; false;15960; 6137.231454005935; 139.27231121281466; 561.4645308924485
+hyunda?; Matrix 1.6;103; longue;7;5; noir; false;15960; 6137.231454005935; 139.27231121281466; 561.4645308924485
+hyunda?; Matrix 1.6;103; longue;7;5; rouge; false;15960; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; blanc; true;16730; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; gris; true;16730; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; bleu; true;16730; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; noir; true;16730; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; rouge; true;16730; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; bleu; false;23900; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; blanc; false;23900; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; noir; false;23900; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; gris; false;23900; 6137.231454005935; 139.27231121281466; 561.4645308924485
+ford; Mondeo 1.8;125; longue;5;5; rouge; false;23900; 6137.231454005935; 139.27231121281466; 561.4645308924485
+audi; A3 2.0 FSI;150; moyenne;5;5; noir; true;19950; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; noir; false;28500; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; rouge; false;28500; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; gris; true;19950; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; blanc; false;28500; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; blanc; true;19950; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; bleu; true;19950; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; bleu; false;28500; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; gris; false;28500; -6000.0; 26.1; 191.6
+audi; A3 2.0 FSI;150; moyenne;5;5; rouge; true;19950; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; noir; true;12817; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; bleu; false;18310; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; gris; false;18310; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; bleu; true;12817; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; gris; true;12817; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; noir; false;18310; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; rouge; false;18310; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; blanc; true;12817; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; rouge; true;12817; -6000.0; 26.1; 191.6
+audi; A2 1.4;75; courte;5;5; blanc; false;18310; -6000.0; 26.1; 191.6
