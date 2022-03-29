@@ -1,0 +1,99 @@
+Script création base sur HIVE.
+
+1) Execution des scripts:
+	- scriptOracleNoSQL.txt
+	- scriptMongoDB.txt
+	- scriptHDFS.txt
+
+1) Connexion à la VM : 
+	>ssh BOCHATON@134.59.152.111 -p 443
+
+2) Lancer HIVE:
+	>beeline
+
+3) Création de la table externe HIVE pointant vers le fichier HDFS:
+	>CREATE EXTERNAL TABLE  MARKETING_HDFS_EXT (ID STRING, MARQUEMODELE STRING,  BONUSMALUS STRING, REJETCO2 STRING, COUTENERGIE STRING) 
+		ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+		STORED AS TEXTFILE LOCATION 'hdfs:/recommandation';
+
+4) Création de la table externe HIVE pointant vers la table NoSQL:
+	>CREATE EXTERNAL TABLE  CATALOGUE_ONS_EXT  
+		( ClIENTID int, 
+			MARQUE string, 
+			NOM string, 
+			PUISSANCE string, 
+			LONGUEUR string, 
+			NBPLACES string, 
+			NBPORTES string, 
+			COULEUR string, 
+			OCCASION string, 
+			PRIX string)
+	 	STORED BY 'oracle.kv.hadoop.hive.table.TableStorageHandler' 
+		TBLPROPERTIES ( "oracle.kv.kvstore" = "kvstore",
+			 "oracle.kv.hosts" = "bigdatalite.localdomain:5000",
+			  "oracle.kv.hadoop.hosts" = "bigdatalite.localdomain/127.0.0.1",  
+			 "oracle.kv.tableName" = "CATALOGUE_ESTIA2022_PK");
+
+
+5) Création de la table externe HIVE pointant vers la table MongoDB:
+	>CREATE EXTERNAL TABLE IMMATRICULATIONS_MONGODB_EXT 
+		(IMMATRICULATION string, 
+		MARQUE string, 
+		NOM string, 
+		PUISSANCE string, 
+		LONGUEUR string, 
+		NBPLACES string, 
+		NBPORTES string, 
+		COULEUR string, 
+		OCCASION string, 
+		PRIX string)  
+	STORED BY 'com.mongodb.hadoop.hive.MongoStorageHandler' 
+	WITH SERDEPROPERTIES('mongo.columns.mapping'='
+		{"immatriculation":"immatriculation",
+		"marque" "marque",
+		"nom":"nom",
+		"puissance":"puissance",
+		"longueur":"longueur",
+		"nbPlaces":"nbPlaces",
+		"nbPortes":"nbPortes",
+		"couleur":"couleur",
+		"occasion":"occasion",
+		"prix":"prix"}' 
+	TBLPROPERTIES('mongo.uri'='mongodb://localhost:27017/BOCHATON_DERIAN_ROUSSY_HOUMMANI.IMMATRICULATION');
+
+
+6) Création des tables internes HIVE:
+	6.1) Ajout des fichiers dans HDFS (suivre scriptHDFS pour voir comment ajouter les fichiers Clients_1.csv, Clients_9.csv et CO2.csv.
+	6.2) Créations de tables internes dans Hive (après s'être reconnecté à Hive):
+		Clients_1.csv:
+			CREATE TABLE CLIENT1_HIVE_INT( Age INT,
+				               	Sexe STRING,
+					       	Taux INT, 
+	                                       	SituationFamiliale STRING, 
+					       	nbEnfantsAcharge INT, 
+	 				       	SecondVoiture STRING, 
+					       	Immatriculation STRING) 
+			ROW FORMAT DELIMITED FIELDS TERMINATED BY ',';
+
+		Clients_9.csv:
+			CREATE TABLE CLIENT2_HIVE_INT( Age INT,
+				               	Sexe STRING,
+					       	Taux INT, 
+	                                       	SituationFamiliale STRING, 
+					       	nbEnfantsAcharge INT, 
+	 				       	SecondVoiture STRING, 
+					       	Immatriculation STRING) 
+			ROW FORMAT DELIMITED FIELDS TERMINATED BY ',';
+
+		CO2.csv:
+			CREATE TABLE CO2_HIVE_INT( ID INT,
+						   MarqueModele STRING, 
+						   BonusMalus STRING, 
+						   RejetsCO2 STRING, 
+						   CoutEnergie STRING) 
+			ROW FORMAT DELIMITED FIELDS TERMINATED BY ',';
+
+	6.3) Chargement des données dans les tables internes:
+		LOAD DATA INPATH '/recommandation/ClientsA.csv' INTO TABLE CLIENT1_HIVE_INT;
+		LOAD DATA INPATH '/recommandation/ClientsB.csv' INTO TABLE CLIENT2_HIVE_INT;
+		LOAD DATA INPATH '/recommandation/CO2.csv' INTO TABLE CO2_HIVE_INT;

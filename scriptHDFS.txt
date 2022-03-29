@@ -1,0 +1,16 @@
+Script création base sur HDFS.
+
+1) On copie le fichier Marketing.csv sur la VM de monsieur Mopolo.
+
+2) Connexion à la VM : 
+	>ssh BOCHATON@134.59.152.111 -p 443
+
+3) export MYTPHOME=/home/BOCHATON
+
+4) Création d'une directorie hadoop
+	>hdfs dfs -mkdir /recommandation
+
+5) Ajout du  fichier dans hdfs:
+	>hdfs dfs -put $MYTPHOME/Marketing.csv /recommandation
+
+

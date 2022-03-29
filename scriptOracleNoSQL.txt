@@ -1,0 +1,16 @@
+Script création base sur Oracle NoSQL.
+
+1) On copie le script Airbase.java et le fichier catalogue.csv sur la VM de monsieur Mopolo.
+
+2) Connexion à la VM : 
+	>ssh BOCHATON@134.59.152.111 -p 443
+
+2) On définit la variable d'environnement: 
+	>export MYPATH=~
+
+3) On compile notre script Dept.java:
+	>javac -g -cp $KVHOME/lib/kvclient.jar:$MYPATH/Projet $MYPATH/Projet/airbase/Airbase.java
+
+4) On execute le script:
+	>java -Xmx256m -Xms256m  -cp $KVHOME/lib/kvclient.jar:$MYPATH/Projet airbase.Airbase 
+

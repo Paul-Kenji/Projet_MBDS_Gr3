@@ -1,0 +1,15 @@
+Script création base sur MongoDB.
+
+1) On copie le script Dept.java ainsi que la librairy mongo-java-driver.3.12.7.jar et le fichier Immatriculation.csv sur la VM de monsieur Mopolo.
+
+2) Connexion à la VM : 
+	>ssh BOCHATON@134.59.152.111 -p 443
+
+2) On définit la variable d'environnement: 
+	>export MYPATH=~/Projet/tpmongodb
+
+3) On compile notre script Dept.java:
+	>javac -g -cp %MYPATH%/mongojar/mongo-java-driver3.12.7.jar;%MYPATH% %MYPATH%/tp/Dept.java
+
+4) On execute le script:
+	>java -cp $%MYPATH/mongojar/mongojar/mongo-java-driver3.12.7.jar:$MYPATH BOCHATON_DERIAN_ROUSSY_HOUMMANI.Dept
